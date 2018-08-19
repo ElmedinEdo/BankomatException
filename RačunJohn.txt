@@ -1,0 +1,2 @@
+Stanje na bankovnom raèunu John iznosi:
+ 5000 $
